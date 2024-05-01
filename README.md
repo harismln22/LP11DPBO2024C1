@@ -1,5 +1,5 @@
 # JANJI #
-Saya Haris Maulana berjanji tidak akan curang dalam Latihan 11 matkul dpbo demi keberkahannya
+Saya Haris Maulana [2209058] berjanji tidak akan curang dalam Latihan 11 matkul dpbo demi keberkahannya
 
 # Desain Program #
 program ini dirancang untuk menampilkan tabel pasien dengan crud (yang dimana editnya masih error awokawok). program ini dbuat dengan bahasa PHP
@@ -11,7 +11,7 @@ program ini dirancang untuk menampilkan tabel pasien dengan crud (yang dimana ed
 ![{CA42FF89-89D9-4769-927C-2187E482C2AF}](https://github.com/harismln22/LP11DPBO2024C1/assets/159020670/14302faa-9e08-4f35-8515-93f7d0f36391)
 
 2. Form tambah dan menambah data
-
+Ketika klik 'tambah' di bawah 
 ![{454F7995-DE16-4899-8622-2EBF1412CEB3}](https://github.com/harismln22/LP11DPBO2024C1/assets/159020670/941e263a-aa22-44a3-8dcb-d0ead5564d75)
 ![{2BA6B508-F322-4E83-BD6F-80AE66D0ADCA}](https://github.com/harismln22/LP11DPBO2024C1/assets/159020670/c88d88ab-2807-40cf-8754-5615786c8fa9)
 
